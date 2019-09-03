@@ -1,0 +1,3 @@
+[submodule "sdf_blackjack"]
+	path = sdf_blackjack
+	url = ../sdf_blackjack.git
